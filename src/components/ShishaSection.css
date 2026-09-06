@@ -1,0 +1,19 @@
+.shisha-section {
+    background-color: #bebbbb;
+    border-radius: 20px;
+  padding: 10px 10px; 
+  border: 2px solid #747272;
+}
+.priceSection{
+  overflow: hidden; 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  border-radius: 20px;
+  padding: 0px 10px; 
+
+}
+.priceSection h3 {
+  font-weight: bold;
+    font-size: 14px;
+}
